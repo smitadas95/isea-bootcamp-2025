@@ -1,4 +1,4 @@
-# README: Covert Channel Bit Inference Assignment
+# Assignment 2: Covert Channel Bit Inference Assignment
 
 ## Task Overview
 Participants are required to complete the missing logic in the **receiver** function to infer the transmitted bit based on execution time measurements. The sender encodes a bit (`0` or `1`) using different computational workloads, and the receiver must deduce the bit by analyzing execution cycles.

@@ -1,4 +1,4 @@
-# README: Identification of Leakages Using Hardware Performance Counters (HPCs) Profiling
+# Assignment 1: Identification of Leakages Using Hardware Performance Counters (HPCs) Profiling
 
 ## Overview
 This project explores how **hardware performance counters (HPCs)** can be used to distinguish between different applications and analyze security vulnerabilities. Participants will use the **perf** tool to collect and analyze performance counter data across the following tasks:
